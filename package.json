@@ -71,7 +71,7 @@
     "lodash.kebabcase": "4.1.1",
     "odiff-bin": "2.6.1",
     "pixelmatch": "5.3.0",
-    "playwright-core": "1.47.2",
+    "playwright-core": "1.50.1",
     "pngjs": "7.0.0",
     "posthog-node": "3.5.0",
     "serve-handler": "6.1.6",
@@ -81,7 +81,7 @@
     "zod": "3.23.8"
   },
   "devDependencies": {
-    "@playwright/test": "1.47.2",
+    "@playwright/test": "1.50.1",
     "@types/async": "3.2.24",
     "@types/fs-extra": "11.0.4",
     "@types/jest": "29.5.13",
