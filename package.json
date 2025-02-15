@@ -65,7 +65,7 @@
     "bundle-require": "4.0.2",
     "esbuild": "0.24.0",
     "execa": "5.1.1",
-    "form-data": "4.0.0",
+    "form-data": "4.0.2",
     "fs-extra": "11.2.0",
     "get-port-please": "3.1.2",
     "lodash.kebabcase": "4.1.1",
