@@ -7,6 +7,7 @@ import path from "node:path"
 export const config: CustomProjectConfig = {
   histoireShots:{
     histoireUrl: './.histoire/dist',
+    breakpoints: [320, 768, 1024, 1280],
   },
   threshold: 0.0005,
   generateOnly: true,
