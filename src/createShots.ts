@@ -125,8 +125,7 @@ export const createShots = async () => {
   }
 
   if (histoireShots) {
-    const { histoireUrl } = histoireShots;
-
+    const { histoireUrl, breakpoints } = histoireShots;
     let localServer;
     let histoireWebUrl: undefined | string;
 
@@ -167,6 +166,7 @@ export const createShots = async () => {
         const shotItems = generateHistoireShotItems(
           histoireWebUrl,
           collection,
+          breakpoints,
           browsers.length > 1 ? browser : undefined,
         );
 
