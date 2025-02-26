@@ -61,7 +61,7 @@
   "dependencies": {
     "@types/xml2js": "^0.4.14",
     "async": "3.2.6",
-    "axios": "1.7.7",
+    "axios": "1.8.1",
     "bundle-require": "4.0.2",
     "esbuild": "0.24.0",
     "execa": "5.1.1",
